@@ -167,11 +167,7 @@ No known bugs at this time.
 
 ## Authors
 
-+ Alexa Orrico - [GitHub](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
-+ Bezaleel Olakunori - [GitHub](https://github.com/B3zaleel) / [Twitter](https://twitter.com/bezxx_chihuahua)
-+ Dismas Kipchumba - [GitHub](https://github.com/dizzysnazzy) / [Twitter](https://twitter.com/dizzy_snazzy)
-+ Jennifer Huang - [GitHub](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-+ Joann Vuong
++ Ayeni Ayodeji - [GitHub](https://github.com/ayeniayodeji2009) / [Twitter](https://twitter.com/ayeni_ayodeji01)
 ## License
 
 Public Domain. No copy write protection.
